@@ -754,8 +754,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #metodoglogia {
-  background: #fff;
-  background-size: cover;
   padding: 60px 0 40px 0;
 }
 
@@ -785,10 +783,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #111;
 }
 
-#metodologia .box:hover .title a {
-  color: #e1251b;
-}
-
 #metodologia .description {
   font-size: 15.5px;
   line-height: 25px;
@@ -802,6 +796,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #skills {
   padding: 60px 0;
+}
+
+.about-img img {
+    margin-bottom: 20px;
 }
 
 #skills .progress {
