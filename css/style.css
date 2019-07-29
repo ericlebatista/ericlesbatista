@@ -289,7 +289,8 @@ p {
 }
 
 #intro .carousel-indicators li {
-  cursor: pointer;
+    cursor: pointer;
+    margin: 0.18em;
 }
 
 #intro .btn-get-started {
